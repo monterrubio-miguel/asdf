@@ -1,0 +1,38 @@
+*
+{
+	text-align: center;	
+	font-family: 'Monospace';
+	margin: 0;
+	padding: 0;
+}
+
+.circular
+{
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+}
+
+body 
+{
+	background-color: #ff0000;
+}
+
+nav ul li 
+{
+	display: inline-block;
+	list-style-type: none;
+}
+
+nav ul
+{
+
+}
+
+nav 
+{
+	padding: 10px;
+	margin: 0;
+	overflow: hidden;
+	background-color: #d3d3d3;
+}
